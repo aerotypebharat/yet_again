@@ -1,0 +1,7 @@
+spring\model\User.class
+spring\model\UserServiceImpl.class
+spring\POJOclass\database.class
+spring\model\UserDaoImpl.class
+spring\model\UserDao.class
+spring\model\UserService.class
+spring\yet_again\IndexController.class

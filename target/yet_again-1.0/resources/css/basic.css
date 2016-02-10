@@ -1,0 +1,135 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Jan 9, 2016, 1:37:30 PM
+    Author     : Dell
+*/
+@font-face {
+    font-family: "myWebfonts";
+    src: url("../fonts/Love.ttf");
+    font-weight: normal;
+    font-style: normal;
+        
+}
+
+
+
+body {
+    font-family: "myWebfonts";
+    
+    background-image: url("../images/bgimage.jpg");
+    background-color:#222;
+    
+    A:link
+        {
+        
+    }
+     V:link
+        {
+        text-decoration-color: #afe;
+    }
+}
+
+div {
+    
+    background-image: url("../images/21.jpg"); 
+    
+    box-shadow: 0px 4px 3px #c3c3c3, 0px -4px 3px #c3c3c3;
+    text-shadow:4px 4px 8px #c3c3c3;
+    background-color: #222;
+    
+    
+    margin-left: 5%;
+    margin-right: 5%;
+    
+   
+   
+    font-size: 125%
+    
+    
+    
+}
+h1 {
+   
+    font-family: "myWebfonts";
+    color: #aaddaa;
+    /*margin-left: 40px;*/
+}
+p {
+    text-shadow:4px 4px 8px #223322;
+    
+    color: #efe;
+    
+    
+    
+}
+
+
+a {
+    /*border: solid whitesmoke;*/
+    /*margin-left: 10px; */
+    /*background: wheat;*/
+    /*border-color: wheat*/
+    
+    color: #efe;
+    text-decoration: none;
+    
+    
+    
+}
+
+
+
+a.hover {
+    text-shadow:4px 4px 8px #9ecaed;
+    }
+table {
+    margin-left: 25%;
+    border-collapse: collapse;
+   
+    
+}
+table, th, td{
+     
+    /*border: 1px solid red; */
+    text-shadow:4px 4px 8px #9ecaed;
+    color: #def;
+    
+    
+}
+thead {
+    column-span:none;
+    
+    
+}
+ol {
+    margin-left: 100px;
+    color: #223322;
+   
+    
+    
+}
+input {
+    
+    font-family: "myWebfonts";
+    font-size: 100%
+}
+
+option {
+    
+     font-family: "myWebfonts";
+    font-size:80%
+}
+
+input {
+
+
+border-radius:10px;
+outline: none;
+    border-color: #9ecaed;
+    box-shadow: 0 0 10px #9ecaed;
+
+}
